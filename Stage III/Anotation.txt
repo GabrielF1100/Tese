@@ -1,0 +1,1 @@
+This folder corresponds to Stage III, which is responsible for merging the labels filtered in Stage II, creating new label classes for training a final model. The goal of this model is to improve the classification and identification of the various diseases affecting coffee leaves.

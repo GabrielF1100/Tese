@@ -1,0 +1,1 @@
+This folder contains the code for Stage I, as described in the thesis. In this stage, a model is trained to classify leaves as healthy and unhealthy. After that, crops are generated from the unhealthy leaves, which are then used in Stage II. This process filters out only the leaves that are relevant for further analysis.
